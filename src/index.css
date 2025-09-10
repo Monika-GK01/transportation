@@ -2,6 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Custom design system variables can go here later */
+
 /* Smart Campus Rides Design System - University + Transport Theme */
 @layer base {
   :root {
