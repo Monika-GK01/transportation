@@ -150,7 +150,7 @@
   .bg-warning { background-color: var(--warning); }
 }
 
-@layer base {
+/*@layer base {
   * {
     @apply border-border;
   }
@@ -158,4 +158,4 @@
   body {
     @apply bg-background text-foreground;
   }
-}
+}*/
